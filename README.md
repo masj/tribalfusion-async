@@ -2,6 +2,7 @@ Tribal Fusion Async
 ===================
 
 This package will work to make your Tribal Fusion tags async. The dependencies for this are:
+
 1. jQuery
 2. writecapture.js
 
