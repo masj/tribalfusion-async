@@ -3,8 +3,7 @@ Tribal Fusion Async
 
 This package will work to make your Tribal Fusion tags async. The dependencies for this are:
 
-1. jQuery
-2. writecapture.js
+1. writecapture
 
 [writecapture](https://github.com/iamnoah/writeCapture) is necessary since Tribal Fusion's tags use the evil (blocking..) document.write everywhere. Hence, writecapture is used to over ride the document.write references in the tribal fusion tags.
 
